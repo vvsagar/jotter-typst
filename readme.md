@@ -13,7 +13,10 @@ typst init @preview/jotter-polylux:0.1.0 your-cool-project
 A `slides.typ` file will be created for you and contains all the design elements
 you can use.
 
-By default, it uses the fonts Kalam and .
+By default, it uses the fonts
+[Kalam](https://github.com/itfoundry/kalam/releases),
+[Pennstander Math](https://github.com/juliusross1/Pennstander), and
+[Fantastque Sans Mono](https://github.com/belluzj/fantasque-sans/releases).
 Either make sure you have them installed or specify other fonts in the template.
 
 ![thumbnail](thumbnail.png)
