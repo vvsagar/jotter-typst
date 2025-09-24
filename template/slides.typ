@@ -9,6 +9,8 @@
 
 #show math.equation: set text(font: "Pennstander Math", weight: "light")
 
+#show raw: set text(font: "Fantasque Sans Mono")
+
 #show: setup.with(header: [A short title], highlight-color: red)
 
 #title-slide[My interesting title][
@@ -49,6 +51,13 @@
   ][
     + first point
     + second point
+  ][
+    Compute the answer:
+    ```rust
+    pub fn main() {
+        dbg!(42);
+    }
+    ```
   ]
 ]
 
