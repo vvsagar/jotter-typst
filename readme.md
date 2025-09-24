@@ -3,7 +3,8 @@
 # Jotter
 
 A template for creating presentation slides with Typst and
-[Polylux](https://github.com/polylux-typ/polylux/).
+[Polylux](https://github.com/polylux-typ/polylux/) that look like they come
+straight out of your personal notebook.
 
 Use via
 ```sh
