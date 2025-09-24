@@ -40,18 +40,19 @@
 #slide[
   = Another slide
 
-  Maxwell says:
-  $
-    integral.surf_(partial Omega) bold(B) dot dif bold(S) = 0
-  $
-
   #toolbox.side-by-side[
+    Maxwell says:
+    $
+      integral.surf_(partial Omega) bold(B) dot dif bold(S) = 0
+    $
+  ][
+
     - a bullet point
     - another bullet point
-  ][
+
     + first point
     + second point
-  ][
+
     Compute the answer:
     ```rust
     pub fn main() {
