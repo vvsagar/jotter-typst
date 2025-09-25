@@ -1,11 +1,11 @@
 [package]
-name = "jotter-polylux"
+name = "jotter"
 version = "0.1.0"
 entrypoint = "jotter.typ"
 authors = ["Andreas Kröpelin"]
 license = "MIT"
 description = "Handwritten notebook style template for Polylux"
-repository = "https://github.com/polylux-typ/jotter"
+repository = "https://github.com/vvsagar/jotter"
 keywords = ["handwritten", "polylux", "presentation", "slides", "slide", "talk", "lecture"]
 categories = ["presentation"]
 

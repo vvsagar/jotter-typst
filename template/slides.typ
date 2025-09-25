@@ -1,5 +1,5 @@
 #import "@preview/polylux:0.4.0": *
-#import "@preview/jotter-polylux:0.1.0": (
+#import "@local/jotter:0.1.0": (
   setup,
   title-slide,
   framed-block,
