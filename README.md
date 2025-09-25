@@ -6,7 +6,7 @@ A template for creating presentation slides with Typst and
 [Polylux](https://github.com/polylux-typ/polylux/) that look like they come
 straight out of your personal notebook.
 
-Install it locally via `tlp` and use via
+Clone this repository, install it locally with [tlp](https://codeberg.org/vidya/tlp) and use via
 ```sh
 typst init @local/jotter:0.1.0 your-cool-project
 ```
