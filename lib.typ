@@ -8,7 +8,7 @@
   highlight-color-state.update(highlight-color)
   set page(
     paper: "presentation-16-9",
-    margin: (left: 3cm, top: 2cm, rest: 1cm),
+    margin: (left: 2.3cm, top: 1cm, rest: 1cm),
     fill: tiling(
       spacing: (5mm, 5mm),
       {
