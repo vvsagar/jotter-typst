@@ -16,7 +16,12 @@
 
 #show raw: set text(font: "Fantasque Sans Mono")
 
-#show: setup.with(header: [A short title], highlight-color: red)
+#show: setup.with(
+  header: [A short title],
+  highlight-color: red,
+  binding: true,
+  dots: true,
+)
 
 #title-slide[My interesting title][
   A subtitle
@@ -71,6 +76,11 @@
 
 #slide[
   = Highlighting content
+
+  // #framed-block and #post-it accept a sloppiness parameter that determine how
+  // randomized they are.
+  // #framed-block also accepts inset, width, and height like the standard
+  // #block.
 
   #toolbox.side-by-side[
     #grid(
